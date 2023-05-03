@@ -1,7 +1,7 @@
 ﻿using System.Linq;
-using Microsoft.AspNetCore.Mvc;
 using EventManagementSystem.Data;
-using EventManagementSystem.Models;
+using EventManagementSystem.Data.EventManagementSystem.Data;
+using Microsoft.AspNetCore.Mvc;
 
 namespace EventManagementSystem.Controllers
 {
